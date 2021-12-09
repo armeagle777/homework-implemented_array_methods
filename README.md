@@ -10,7 +10,7 @@
     
 ➡️ Task: Implement forEach method
 
-➡️ [Solution](https://github.com/armeagle777/scope-and-closure/blob/master/homeTasks/implementedForeach.js)
+➡️ [Solution](https://github.com/armeagle777/implemented_array_methods/blob/master/homeTasks/implementedForeach.js)
 
 </details>
 
