@@ -13,7 +13,15 @@
 ➡️ [Solution](https://github.com/armeagle777/implemented_array_methods/blob/master/homeTasks/implementedForeach.js)
 
 </details>
+<details>
+    <summary> 1. forEach</summary>
+    <br>
+    
+➡️ Task: Implement slice method
 
+➡️ [Solution](https://github.com/armeagle777/implemented_array_methods/blob/master/homeTasks/fakeSlice.js)
+
+</details>
 ## Built With
 
 - Vanilla JavaScript
