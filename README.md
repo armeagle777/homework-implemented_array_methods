@@ -14,12 +14,21 @@
 
 </details>
 <details>
-    <summary> 1. forEach</summary>
+    <summary> 2. slice</summary>
     <br>
     
 ➡️ Task: Implement slice method
 
 ➡️ [Solution](https://github.com/armeagle777/implemented_array_methods/blob/master/homeTasks/fakeSlice.js)
+
+</details>
+<details>
+    <summary> 3. splice</summary>
+    <br>
+    
+➡️ Task: Implement splice method
+
+➡️ [Solution](https://github.com/armeagle777/implemented_array_methods/blob/master/homeTasks/fakeSplice.js)
 
 </details>
 ## Built With
