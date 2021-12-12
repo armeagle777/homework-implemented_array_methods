@@ -31,6 +31,17 @@
 ➡️ [Solution](https://github.com/armeagle777/implemented_array_methods/blob/master/homeTasks/fakeSplice.js)
 
 </details>
+
+<details>
+    <summary> 4. Reduce</summary>
+    <br>
+    
+➡️ Task: Implement reduce method
+
+➡️ [Solution](https://github.com/armeagle777/implemented_array_methods/blob/master/homeTasks/fakeReduce.js)
+
+</details>
+
 ## Built With
 
 - Vanilla JavaScript
