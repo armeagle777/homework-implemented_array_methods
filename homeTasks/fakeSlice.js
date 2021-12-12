@@ -1,15 +1,13 @@
-function fakeSlice(text, start = 0, end) {
-  if (typeof text !== 'string') {
-    return text;
+function fakeSlice(arr, start, end = arr.length) {
+  let resultArr = [];
+  let startOfLoop = start > 0 ? start : arr.length + start;
+  let endOfLoop = end > 0 ? end : arr.length + end;
+  for (let i = startOfLoop; i < endOfLoop; i++) {
+    resultArr.push(arr[i]);
   }
-  let str = '';
-  let endOfLoop = end > 0 ? end : text.length + end;
-  for (let i = start; i < endOfLoop; i++) {
-    str += text[i];
-  }
-  return str;
+  return resultArr;
 }
 
-//? TEsting for some strings
-console.log(fakeSlice('0123456789', 0, 3));
-console.log(fakeSlice('0123456789', 0, -3));
+//? Testing for some strings
+console.log(fakeSlice([1, 2, 3, 4, 5], -3, -2));
+// console.log(fakeSlice([1, 2, 3, 4], 0, -3));

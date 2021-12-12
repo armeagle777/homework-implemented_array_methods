@@ -1,5 +1,5 @@
 const givenArray = [0, 1, 2, 3, 4, 5];
-function fakeSplice(arr, start, count = 0, ...newItems) {
+function fakeSplice(arr, start, count, ...newItems) {
   const arrInstance = [...arr];
   arr.length = 0;
   const removedElements = [];
